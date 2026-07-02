@@ -1,0 +1,5 @@
+project: javy
+target: json-differential
+cmds:
+  - cmd: /mayhem/json-differential
+    libfuzzer: true
